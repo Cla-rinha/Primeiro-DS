@@ -1,0 +1,3 @@
+Data Query Language (DQL) - A Data Query Language é a sub-língua responsável pela leitura, ou consulta, de dados de um banco de dados. Em SQL, isto corresponde à SELECT
+Data Definition Language (DDL ) - A linguagem de definição de dados é a sub-língua responsável pela definição da forma como os dados são estruturados em um banco de dados. Em SQL, isto corresponde à manipulação de tabelas através do CREATE TABLE, ALTER TABLE, e DROP TABLE
+Data Control Language (DCL) - A Data Control Language é a sub-língua responsável pelas tarefas administrativas de controle do próprio banco de dados, principalmente a concessão e revogação de permissões de banco de dados para os usuários. Em SQL, isto corresponde aos comandos GRANT, REVOKE, e DENY, entre outros.
